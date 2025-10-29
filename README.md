@@ -1,6 +1,6 @@
 # Nginx Log Analyzer
 ## Description
-A simple shell script to analyze nginx access logs and extract statistics about IP addresses, requested paths, response codes, and user agents.
+A simple shell script to analyze nginx access logs and extract statistics about IP addresses, requested paths, response codes, and user agents. This project was made as a challange from roadmap.sh (https://roadmap.sh/projects/nginx-log-analyser).
 ## Prerequisites
 - Bash shell
 - Standard Unix utilities: awk, sed, grep, sort, uniq, tail
@@ -8,7 +8,7 @@ A simple shell script to analyze nginx access logs and extract statistics about 
 ## Installation
 Clone this repository or download the script:
 ```
-git clone <your-repo-url>
+git clone https://github.com/TiPOMeOW725/nginx-log-analyzer/
 cd nginx-log-analyzer
 ```
 Make the script executable:
